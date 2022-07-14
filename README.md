@@ -29,7 +29,7 @@
   <a href="https://instagram.com/ericfts_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=brown" target="_blank"></a>
  <a href="https://twitter.com/ericfts_" target="_blank"><img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
   <a href = "mailto:ericftsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eric-teixeira-97042a245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ericfts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
